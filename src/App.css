@@ -1,0 +1,9 @@
+.header{
+  background-color: #34495e;
+  color: white;
+  padding : 10px
+}
+.center{
+  display: inline-block;
+  margin: 0 auto
+}
